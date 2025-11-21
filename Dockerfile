@@ -10,4 +10,4 @@ RUN npx playwright install --with-deps chromium
 
 COPY . .
 
-CMD ["node", "worker.js"]
+CMD ["node", "worker/updateGames.js"]

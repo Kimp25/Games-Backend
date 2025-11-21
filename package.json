@@ -1,0 +1,23 @@
+{
+  "name": "games-hub-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js",
+    "update": "node worker/updateGames.js",
+    "playwright-install": "npx playwright install"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.4.0",
+    "firebase-functions": "^4.8.1",
+    "howlongtobeat": "^1.8.0",
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.45.0",
+    "puppeteer": "^24.31.0"
+  }
+}

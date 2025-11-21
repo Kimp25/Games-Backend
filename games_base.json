@@ -1,0 +1,4423 @@
+[
+  {
+    "name": "The Witcher 3: Wild Hunt",
+    "slug": "the-witcher-3-wild-hunt",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "slug": "cyberpunk-2077",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "DOOM Eternal",
+    "slug": "doom-eternal",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hades",
+    "slug": "hades",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hollow Knight",
+    "slug": "hollow-knight",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Celeste",
+    "slug": "celeste",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Stardew Valley",
+    "slug": "stardew-valley",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dead Cells",
+    "slug": "dead-cells",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Slay the Spire",
+    "slug": "slay-the-spire",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Monster Hunter Rise",
+    "slug": "monster-hunter-rise",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Ori and the Will of the Wisps",
+    "slug": "ori-and-the-will-of-the-wisps",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Undertale",
+    "slug": "undertale",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Blasphemous",
+    "slug": "blasphemous",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Binding of Isaac: Rebirth",
+    "slug": "the-binding-of-isaac-rebirth",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Cuphead",
+    "slug": "cuphead",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dark Souls III",
+    "slug": "dark-souls-iii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Sekiro: Shadows Die Twice",
+    "slug": "sekiro-shadows-die-twice",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Elden Ring",
+    "slug": "elden-ring",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "God of War",
+    "slug": "god-of-war-2018",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Horizon Zero Dawn",
+    "slug": "horizon-zero-dawn",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "slug": "red-dead-redemption-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "slug": "grand-theft-auto-v",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Assassin's Creed Valhalla",
+    "slug": "assassins-creed-valhalla",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Assassin's Creed Odyssey",
+    "slug": "assassins-creed-odyssey",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "NieR: Automata",
+    "slug": "nier-automata",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "NieR Replicant ver.1.22474487139...",
+    "slug": "nier-replicant-ver-1-22474487139",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Persona 5 Royal",
+    "slug": "persona-5-royal",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Persona 4 Golden",
+    "slug": "persona-4-golden",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Persona 3 Reload",
+    "slug": "persona-3-reload",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Final Fantasy VII Remake Intergrade",
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Final Fantasy XV",
+    "slug": "final-fantasy-xv",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Final Fantasy XVI",
+    "slug": "final-fantasy-xvi",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Devil May Cry 5",
+    "slug": "devil-may-cry-5",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Resident Evil 2",
+    "slug": "resident-evil-2-2019",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Resident Evil 3",
+    "slug": "resident-evil-3-2020",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Resident Evil 4",
+    "slug": "resident-evil-4-remake",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Resident Evil 7: Biohazard",
+    "slug": "resident-evil-7-biohazard",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Resident Evil Village",
+    "slug": "resident-evil-village",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Monster Hunter: World",
+    "slug": "monster-hunter-world",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Street Fighter 6",
+    "slug": "street-fighter-6",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Tekken 7",
+    "slug": "tekken-7",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "slug": "mortal-kombat-11",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Apex Legends",
+    "slug": "apex-legends",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Overwatch 2",
+    "slug": "overwatch-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Valorant",
+    "slug": "valorant",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Rocket League",
+    "slug": "rocket-league",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fortnite",
+    "slug": "fortnite",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Genshin Impact",
+    "slug": "genshin-impact",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Warframe",
+    "slug": "warframe",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "No Man's Sky",
+    "slug": "no-mans-sky",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Subnautica",
+    "slug": "subnautica",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Terraria",
+    "slug": "terraria",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Minecraft",
+    "slug": "minecraft",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "RimWorld",
+    "slug": "rimworld",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Factorio",
+    "slug": "factorio",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Satisfactory",
+    "slug": "satisfactory",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Cities: Skylines",
+    "slug": "cities-skylines",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Cities: Skylines II",
+    "slug": "cities-skylines-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Sid Meier's Civilization VI",
+    "slug": "sid-meiers-civilization-vi",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "XCOM 2",
+    "slug": "xcom-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "slug": "baldurs-gate-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Divinity: Original Sin 2",
+    "slug": "divinity-original-sin-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pillars of Eternity",
+    "slug": "pillars-of-eternity",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Disco Elysium",
+    "slug": "disco-elysium",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Return of the Obra Dinn",
+    "slug": "return-of-the-obra-dinn",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Outer Wilds",
+    "slug": "outer-wilds",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "slug": "the-legend-of-zelda-breath-of-the-wild",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "slug": "super-mario-odyssey",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Super Mario Bros. Wonder",
+    "slug": "super-mario-bros-wonder",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Mario Kart 8 Deluxe",
+    "slug": "mario-kart-8-deluxe",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "slug": "super-smash-bros-ultimate",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Splatoon 2",
+    "slug": "splatoon-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Splatoon 3",
+    "slug": "splatoon-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Animal Crossing: New Horizons",
+    "slug": "animal-crossing-new-horizons",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fire Emblem: Three Houses",
+    "slug": "fire-emblem-three-houses",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Xenoblade Chronicles 2",
+    "slug": "xenoblade-chronicles-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Xenoblade Chronicles 3",
+    "slug": "xenoblade-chronicles-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Luigi's Mansion 3",
+    "slug": "luigis-mansion-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Metroid Dread",
+    "slug": "metroid-dread",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Kirby and the Forgotten Land",
+    "slug": "kirby-and-the-forgotten-land",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pokémon Sword",
+    "slug": "pokemon-sword",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pokémon Shield",
+    "slug": "pokemon-shield",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pokémon Scarlet",
+    "slug": "pokemon-scarlet",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pokémon Violet",
+    "slug": "pokemon-violet",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Pokémon Legends: Arceus",
+    "slug": "pokemon-legends-arceus",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Bayonetta 2",
+    "slug": "bayonetta-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Bayonetta 3",
+    "slug": "bayonetta-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Shovel Knight: Treasure Trove",
+    "slug": "shovel-knight-treasure-trove",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Inside",
+    "slug": "inside",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Limbo",
+    "slug": "limbo",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hyper Light Drifter",
+    "slug": "hyper-light-drifter",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Katana ZERO",
+    "slug": "katana-zero",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hotline Miami",
+    "slug": "hotline-miami",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hotline Miami 2: Wrong Number",
+    "slug": "hotline-miami-2-wrong-number",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Darkest Dungeon",
+    "slug": "darkest-dungeon",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "FTL: Faster Than Light",
+    "slug": "ftl-faster-than-light",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Into the Breach",
+    "slug": "into-the-breach",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Spelunky 2",
+    "slug": "spelunky-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Messenger",
+    "slug": "the-messenger",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "A Short Hike",
+    "slug": "a-short-hike",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Tunic",
+    "slug": "tunic",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "slug": "ori-and-the-blind-forest-definitive-edition",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Alan Wake",
+    "slug": "alan-wake",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Alan Wake II",
+    "slug": "alan-wake-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Control",
+    "slug": "control",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Quantum Break",
+    "slug": "quantum-break",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dishonored",
+    "slug": "dishonored",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dishonored 2",
+    "slug": "dishonored-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Prey",
+    "slug": "prey-2017",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Deathloop",
+    "slug": "deathloop",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Elder Scrolls V: Skyrim",
+    "slug": "the-elder-scrolls-v-skyrim",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fallout 3",
+    "slug": "fallout-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fallout: New Vegas",
+    "slug": "fallout-new-vegas",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fallout 4",
+    "slug": "fallout-4",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Outer Worlds",
+    "slug": "the-outer-worlds",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Mass Effect Legendary Edition",
+    "slug": "mass-effect-legendary-edition",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dragon Age: Origins",
+    "slug": "dragon-age-origins",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dragon Age II",
+    "slug": "dragon-age-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dragon Age: Inquisition",
+    "slug": "dragon-age-inquisition",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Starfield",
+    "slug": "starfield",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Star Wars Jedi: Fallen Order",
+    "slug": "star-wars-jedi-fallen-order",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Star Wars Jedi: Survivor",
+    "slug": "star-wars-jedi-survivor",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Titanfall 2",
+    "slug": "titanfall-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "slug": "rainbow-six-siege",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Call of Duty: Modern Warfare II",
+    "slug": "call-of-duty-modern-warfare-ii-2022",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Call of Duty: Warzone",
+    "slug": "call-of-duty-warzone",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "League of Legends",
+    "slug": "league-of-legends",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dota 2",
+    "slug": "dota-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Counter-Strike 2",
+    "slug": "counter-strike-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Team Fortress 2",
+    "slug": "team-fortress-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "slug": "left-4-dead-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Portal",
+    "slug": "portal",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Portal 2",
+    "slug": "portal-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Half-Life 2",
+    "slug": "half-life-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Half-Life: Alyx",
+    "slug": "half-life-alyx",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Sea of Thieves",
+    "slug": "sea-of-thieves",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Grounded",
+    "slug": "grounded",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Forza Horizon 4",
+    "slug": "forza-horizon-4",
+    "platforms": [
+      "Xbox"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Forza Horizon 5",
+    "slug": "forza-horizon-5",
+    "platforms": [
+      "Xbox"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Gran Turismo 7",
+    "slug": "gran-turismo-7",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Horizon Forbidden West",
+    "slug": "horizon-forbidden-west",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "slug": "ghost-of-tsushima",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Bloodborne",
+    "slug": "bloodborne",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Demon's Souls",
+    "slug": "demons-souls",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Shadow of the Colossus",
+    "slug": "shadow-of-the-colossus",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Last of Us Part I",
+    "slug": "the-last-of-us-part-i",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Last of Us Part II",
+    "slug": "the-last-of-us-part-ii",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Call of Duty: Modern Warfare III",
+    "slug": "call-of-duty-modern-warfare-iii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Marvel's Spider-Man",
+    "slug": "marvels-spider-man",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "slug": "marvels-spider-man-miles-morales",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Returnal",
+    "slug": "returnal",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Ratchet & Clank: Rift Apart",
+    "slug": "ratchet-and-clank-rift-apart",
+    "platforms": [
+      "PlayStation"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Astro's Playroom",
+    "slug": "astros-playroom",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hyrule Warriors: Age of Calamity",
+    "slug": "hyrule-warriors-age-of-calamity",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fire Emblem Engage",
+    "slug": "fire-emblem-engage",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Octopath Traveler",
+    "slug": "octopath-traveler",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Octopath Traveler II",
+    "slug": "octopath-traveler-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Bravely Default II",
+    "slug": "bravely-default-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Triangle Strategy",
+    "slug": "triangle-strategy",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "slug": "monster-hunter-stories-2-wings-of-ruin",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Nioh",
+    "slug": "nioh",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Nioh 2",
+    "slug": "nioh-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Ghostwire: Tokyo",
+    "slug": "ghostwire-tokyo",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Yakuza 0",
+    "slug": "yakuza-0",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Yakuza: Like a Dragon",
+    "slug": "yakuza-like-a-dragon",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Judgment",
+    "slug": "judgment",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Lost Judgment",
+    "slug": "lost-judgment",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Persona 5 Strikers",
+    "slug": "persona-5-strikers",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dragon Quest XI S: Echoes of an Elusive Age",
+    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Tales of Arise",
+    "slug": "tales-of-arise",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Scarlet Nexus",
+    "slug": "scarlet-nexus",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Code Vein",
+    "slug": "code-vein",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Gears 5",
+    "slug": "gears-5",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Halo: The Master Chief Collection",
+    "slug": "halo-the-master-chief-collection",
+    "platforms": [
+      "Xbox"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Halo Infinite",
+    "slug": "halo-infinite",
+    "platforms": [
+      "Xbox"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "slug": "hollow-knight-silksong",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dead Space",
+    "slug": "dead-space-2008",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Dead Space (Remake)",
+    "slug": "dead-space-2023",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "The Callisto Protocol",
+    "slug": "the-callisto-protocol",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Metro 2033",
+    "slug": "metro-2033",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Metro: Last Light",
+    "slug": "metro-last-light",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Metro Exodus",
+    "slug": "metro-exodus",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Borderlands 3",
+    "slug": "borderlands-3",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Diablo III",
+    "slug": "diablo-iii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Diablo IV",
+    "slug": "diablo-iv",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Path of Exile",
+    "slug": "path-of-exile",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Grim Dawn",
+    "slug": "grim-dawn",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Torchlight II",
+    "slug": "torchlight-ii",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Hades II",
+    "slug": "hades-ii",
+    "platforms": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Slime Rancher",
+    "slug": "slime-rancher",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Slime Rancher 2",
+    "slug": "slime-rancher-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Phasmophobia",
+    "slug": "phasmophobia",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Among Us",
+    "slug": "among-us",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Fall Guys",
+    "slug": "fall-guys",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Don't Starve",
+    "slug": "dont-starve",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Don't Starve Together",
+    "slug": "dont-starve-together",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Risk of Rain",
+    "slug": "risk-of-rain",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "Risk of Rain 2",
+    "slug": "risk-of-rain-2",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  },
+  {
+    "name": "War Thunder",
+    "slug": "war-thunder",
+    "platforms": [
+      "PC"
+    ],
+    "genres": [],
+    "release_date": null,
+    "metacritic_score": null,
+    "description": null,
+    "image_url": null,
+    "howlongtobeat_hours": null,
+    "price_min_usd": null,
+    "price_store": null,
+    "source_urls": {
+      "steam": null,
+      "gog": null,
+      "epic": null,
+      "nintendo": null
+    },
+    "last_updated": null
+  }
+]

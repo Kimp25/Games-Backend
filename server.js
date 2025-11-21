@@ -1,19 +1,26 @@
 import express from "express";
-import 'dotenv/config';
+import cors from "cors";
+import { db } from "./firebase.js";
 
 const app = express();
+app.use(cors());
 
-// Para leer JSON que envíe el frontend
-app.use(express.json());
+// LISTA DE JUEGOS
+app.get("/games", async (req, res) => {
+  try {
+    const snapshot = await db.collection("games").get();
+    const games = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    res.json(games);
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "Error obteniendo juegos" });
+  }
+});
 
-// Ruta de prueba (Railway la usa para saber que tu API está viva)
+// TEST
 app.get("/", (req, res) => {
-  res.send("GamesHub Backend is running 🚀");
+  res.send("Backend funcionando ✔");
 });
 
-// Puerto dinámico para Railway
-const PORT = process.env.PORT || 3000;
-
-app.listen(PORT, () => {
-  console.log(`🔥 Backend escuchando en puerto ${PORT}`);
-});
+const port = process.env.PORT || 3000;
+app.listen(port, () => console.log("Servidor en puerto", port));

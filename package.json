@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
+    "web": "node server.js",
     "seed": "node seed.js",
     "update": "node worker/updateGames.js",
     "playwright-install": "npx playwright install"
